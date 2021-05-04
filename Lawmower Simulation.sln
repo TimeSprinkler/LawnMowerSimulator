@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2017
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lawmower Simulation", "Lawmower Simulation.csproj", "{A67F8721-5D22-AE67-A0C1-970B3F4041E0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lawmower Simulation.Plugins", "Lawmower Simulation.Plugins.csproj", "{73635631-4C0B-64E6-041B-EB06CCA1D2A2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lawmower Simulation.Editor.Plugins", "Lawmower Simulation.Editor.Plugins.csproj", "{CD1D47AF-C939-2E19-E645-0F974AC09C79}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A67F8721-5D22-AE67-A0C1-970B3F4041E0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A67F8721-5D22-AE67-A0C1-970B3F4041E0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A67F8721-5D22-AE67-A0C1-970B3F4041E0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A67F8721-5D22-AE67-A0C1-970B3F4041E0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{73635631-4C0B-64E6-041B-EB06CCA1D2A2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{73635631-4C0B-64E6-041B-EB06CCA1D2A2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{73635631-4C0B-64E6-041B-EB06CCA1D2A2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{73635631-4C0B-64E6-041B-EB06CCA1D2A2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CD1D47AF-C939-2E19-E645-0F974AC09C79}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CD1D47AF-C939-2E19-E645-0F974AC09C79}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CD1D47AF-C939-2E19-E645-0F974AC09C79}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CD1D47AF-C939-2E19-E645-0F974AC09C79}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
